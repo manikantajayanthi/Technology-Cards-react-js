@@ -1,0 +1,106 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 40%;
+  margin-right: 20px;
+  margin-bottom: 40px;
+  list-style-type: none;
+}
+
+@media (max-width: 768px) {
+  .card-1 {
+    border-top: 5px solid #ff4f64;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 40px;
+    list-style-type: none;
+  }
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 40%;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  list-style-type: none;
+}
+
+@media (max-width: 768px) {
+  .card-2 {
+    border-top: 5px solid #00a8e7;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 40px;
+    list-style-type: none;
+  }
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 40%;
+  margin-right: 20px;
+  margin-bottom: 40px;
+  list-style-type: none;
+}
+
+@media (max-width: 768px) {
+  .card-3 {
+    border-top: 5px solid #44c4a1;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 40px;
+    list-style-type: none;
+  }
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 40%;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  list-style-type: none;
+}
+
+@media (max-width: 768px) {
+  .card-4 {
+    border-top: 5px solid #fcc200;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 40px;
+    list-style-type: none;
+  }
+}
+
+.card-heading {
+  color: #171f46;
+  font-family: 'Roboto';
+}
+
+.card-description {
+  color: #64748b;
+  font-family: 'Roboto';
+}
+
+.image-direction {
+  display: flex;
+  justify-content: flex-end;
+}
